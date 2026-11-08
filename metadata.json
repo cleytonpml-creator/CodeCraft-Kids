@@ -1,0 +1,6 @@
+{
+  "name": "CodeCraft Kids",
+  "description": "Cosmic coding quest for kids to guide AstroBot through space circuits, logic labyrinths, and energy crystals using blocks and typed code.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
